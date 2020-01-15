@@ -1,6 +1,6 @@
-package com.wagner.beerservice.web.repositories;
+package com.wagner.beerservice.repositories;
 
-import com.wagner.beerservice.web.domain.Beer;
+import com.wagner.beerservice.domain.Beer;
 import org.springframework.data.repository.PagingAndSortingRepository;
 
 import java.util.UUID;

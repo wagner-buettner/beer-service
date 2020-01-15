@@ -1,7 +1,7 @@
-package com.wagner.beerservice.web.bootstrap;
+package com.wagner.beerservice.bootstrap;
 
-import com.wagner.beerservice.web.domain.Beer;
-import com.wagner.beerservice.web.repositories.BeerRepository;
+import com.wagner.beerservice.domain.Beer;
+import com.wagner.beerservice.repositories.BeerRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

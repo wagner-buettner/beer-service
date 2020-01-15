@@ -1,4 +1,4 @@
-package com.wagner.beerservice.web.domain;
+package com.wagner.beerservice.domain;
 
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;
